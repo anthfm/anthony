@@ -1,0 +1,1 @@
+b2e82762-de3f-4f9d-bba5-1db1e7531012 autoenable=true bucket=data datacenter=US encryption=none host=192.168.68.119 name=s3.anthony port=9000 public=yes requeststyle=path storageclass=STANDARD type=S3 timestamp=1628601366.780476s
